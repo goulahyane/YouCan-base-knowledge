@@ -1,0 +1,176 @@
+{
+  "knowledge_base": [
+    {
+      "id": "kb001",
+      "category": "Store Creation",
+      "subcategory": "Account Setup",
+      "title": "How to create your online store",
+      "content": "To create a YouCan account:\n1. Go to https://youcan.shop/en/ and click 'Get started'\n2. Sign up using Google account OR fill in personal information and agree to terms\n3. Verify your email address by clicking the verification link\n4. Choose a unique store name that represents your brand\n5. Select language appropriate for your target audience\n6. Select store currency (this will be the currency displayed to visitors)\n7. Click Continue\n\nYour store is now created but needs activation.",
+      "keywords": ["create store", "sign up", "register", "account", "new store", "get started"],
+      "url": "https://youcan.shop/en/help/store-creation/create-online-store",
+      "related_topics": ["store activation", "account verification"]
+    },
+    {
+      "id": "kb002",
+      "category": "Store Creation",
+      "subcategory": "Activation",
+      "title": "How to activate your store",
+      "content": "Store activation requires purchasing credit (minimum $1):\n\nStep 1: Buy Credit\n- Click on the activation notification in your dashboard\n- Choose card type (Moroccan local or international)\n- Enter minimum $1 balance\n- Complete payment using: Credit/Debit card, Cash Plus (Morocco only), or PayPal (coming soon)\n\nStep 2: Activate Payment Gateway\nChoose from these options:\n- Cash on Delivery (COD) - fastest activation, builds customer trust\n- YouCan Pay - Moroccan electronic payment solution, connects in minutes\n- PayPal - enter your PayPal email\n- Stripe - connect existing Stripe account\n- Custom Payment - add your own payment method\n\nOnce credit is purchased and payment gateway is activated, your store is ready for business!",
+      "keywords": ["activate store", "activation", "buy credit", "payment gateway", "COD", "YouCan Pay", "Stripe", "PayPal"],
+      "url": "https://youcan.shop/en/help/store-creation/store-activation",
+      "related_topics": ["payment methods", "buying credit", "payment gateway"]
+    },
+    {
+      "id": "kb003",
+      "category": "General",
+      "subcategory": "FAQ",
+      "title": "Why buy credit to activate store",
+      "content": "You must purchase credit (minimum $1) to activate your store to avoid fake accounts and robots. The amount purchased becomes a deposit in your balance that you can use later for platform services.",
+      "keywords": ["credit", "activation fee", "why pay", "deposit", "balance"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["store activation", "pricing"]
+    },
+    {
+      "id": "kb004",
+      "category": "Products",
+      "subcategory": "Product Limits",
+      "title": "Product limitations",
+      "content": "You can add UNLIMITED products to your store. There is no limit on the number of products. You can also receive unlimited qualified visitors (excluding fake visitors). YouCan enables you to create, develop and manage your store without limitations.",
+      "keywords": ["product limit", "unlimited products", "how many products", "add products"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["products", "catalog"]
+    },
+    {
+      "id": "kb005",
+      "category": "Shipping",
+      "subcategory": "Storage and Fulfillment",
+      "title": "Does YouCan handle storage and shipping",
+      "content": "YouCan does not currently support storage and shipping of products. However, YouCan has an aggregator service called 'YouCan Ship' that provides a list of local shipping companies that you can choose from to handle your deliveries.",
+      "keywords": ["shipping", "storage", "fulfillment", "YouCan Ship", "delivery"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["shipping options", "delivery"]
+    },
+    {
+      "id": "kb006",
+      "category": "Business Model",
+      "subcategory": "Dropshipping",
+      "title": "Can I use YouCan for dropshipping",
+      "content": "Yes, YouCan can be used for dropshipping. All the tools you need for dropshipping are available. However, you must read YouCan's terms and conditions for cases where dropshipping is not allowed.",
+      "keywords": ["dropshipping", "drop shipping", "business model"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["terms of use", "business models"]
+    },
+    {
+      "id": "kb007",
+      "category": "Domains",
+      "subcategory": "Custom Domain",
+      "title": "Linking domain name to store",
+      "content": "You can link your domain name to your YouCan store using one of two solutions:\n1. NS (Name Server) solution\n2. CNAME solution\n\nYou can also use multiple custom domains for the same store with no issue.\n\nFor detailed instructions, visit: https://youcan.shop/en/help/store/domains/link-domain",
+      "keywords": ["domain", "custom domain", "link domain", "DNS", "CNAME", "NS"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["domains", "DNS setup"]
+    },
+    {
+      "id": "kb008",
+      "category": "Security",
+      "subcategory": "Data Privacy",
+      "title": "Store data security and privacy",
+      "content": "YouCan takes data protection very seriously. The platform is built according to the highest technical standards related to protection of identity, rights, freedoms, privacy in full respect of Law N° 09.08 (Morocco) regarding personal data processing.\n\nKey security features:\n- Multiple security monitoring procedures\n- No current vulnerabilities\n- Internal charter for personal data processing\n- Support staff has restricted access (only necessary information for tasks)\n- Strong technical safeguards for customer data",
+      "keywords": ["security", "privacy", "data protection", "safe", "GDPR"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["privacy policy", "data security"]
+    },
+    {
+      "id": "kb009",
+      "category": "Requirements",
+      "subcategory": "Technical Skills",
+      "title": "Do I need programming or design skills",
+      "content": "No! You don't need technical or design expertise to launch your online business with YouCan. YouCan offers all the tools and features you need to succeed with your online store without any programming or design knowledge.",
+      "keywords": ["programming", "coding", "design", "technical skills", "no code"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["getting started", "beginner friendly"]
+    },
+    {
+      "id": "kb010",
+      "category": "Pricing",
+      "subcategory": "Invoices",
+      "title": "When to pay invoices",
+      "content": "Payment timing depends on your chosen plan:\n\n1. Transaction Fee Model: Pay when you reach $5,000 in sales\n2. Monthly Subscription: Pay at the end of every month (30 days after plan activation)\n\nFor more details visit: https://youcan.shop/en/pricing",
+      "keywords": ["invoice", "payment", "billing", "when to pay", "pricing"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["pricing", "billing"]
+    },
+    {
+      "id": "kb011",
+      "category": "Payment Methods",
+      "subcategory": "Customer Payments",
+      "title": "Can customers pay with credit cards",
+      "content": "Yes, customers can pay with credit cards using either:\n1. Stripe - International payment processor\n2. YouCan Pay - Moroccan payment solution developed by YouCan\n\nBoth solutions support credit/debit card payments from your customers.",
+      "keywords": ["credit card", "payment", "customer payment", "Stripe", "YouCan Pay"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["payment gateway", "payment methods"]
+    },
+    {
+      "id": "kb012",
+      "category": "Store Settings",
+      "subcategory": "Store Slug",
+      "title": "What is a store slug",
+      "content": "A store slug is your username and it's part of the domain that will be displayed as your website link/URL. For example, in 'Test.youcan.store', the slug is 'Test'. This is your unique identifier on the YouCan platform.",
+      "keywords": ["slug", "store slug", "URL", "username", "store name"],
+      "url": "https://youcan.shop/en/faq",
+      "related_topics": ["store creation", "domains"]
+    },
+    {
+      "id": "kb013",
+      "category": "Store Creation",
+      "subcategory": "Multi-Store",
+      "title": "Multiple stores with one account",
+      "content": "You can manage multiple stores with one YouCan account. This allows you to run different online stores from a single dashboard.",
+      "keywords": ["multiple stores", "multi-store", "several stores", "many stores"],
+      "url": "https://youcan.shop/en/help/store-creation/multi-stores",
+      "related_topics": ["account management", "store management"]
+    },
+    {
+      "id": "kb014",
+      "category": "Getting Started",
+      "subcategory": "Onboarding Checklist",
+      "title": "Fast-track onboarding checklist",
+      "content": "Quick start guide to get selling fast:\n\n1. Create Account & Activate Store\n   - Sign up at youcan.shop\n   - Verify email\n   - Choose store name, language, currency\n   - Buy $1 credit\n   - Activate payment gateway (COD is fastest)\n\n2. Add Your First Product\n   - Go to Products section\n   - Add product details (name, price, description)\n   - Upload product images\n   - Set inventory\n\n3. Configure Shipping\n   - Set shipping zones\n   - Configure shipping rates\n   - Connect with YouCan Ship (optional)\n\n4. Customize Store\n   - Choose theme\n   - Add logo and branding\n   - Customize colors\n\n5. Launch\n   - Preview your store\n   - Share your store link\n   - Start marketing",
+      "keywords": ["getting started", "quick start", "onboarding", "first steps", "setup"],
+      "url": "https://youcan.shop/en/help",
+      "related_topics": ["store creation", "products", "shipping"]
+    }
+  ],
+  "categories": [
+    "Store Creation",
+    "Products",
+    "Orders",
+    "Shipping",
+    "Payment Methods",
+    "Domains",
+    "Security",
+    "Pricing",
+    "General"
+  ],
+  "video_resources": [
+    {
+      "title": "How to buy credit",
+      "url": "https://www.youtube.com/watch?v=jSroqzuN6A4",
+      "topic": "Store Activation"
+    },
+    {
+      "title": "Cash Plus payment method",
+      "url": "https://www.youtube.com/watch?v=pvQHcHfQW78",
+      "topic": "Payment Methods"
+    }
+  ],
+  "important_links": {
+    "help_center": "https://youcan.shop/en/help",
+    "faq": "https://youcan.shop/en/faq",
+    "pricing": "https://youcan.shop/en/pricing",
+    "contact_support": "https://youcan.shop/en/contact-us",
+    "youtube_channel": "https://www.youtube.com/c/Youcandotshop",
+    "sign_up": "https://seller-area.youcan.shop/admin/register/?lang=en",
+    "login": "https://accounts.youcan.shop/?locale=en"
+  }
+}
